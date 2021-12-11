@@ -1,0 +1,67 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: CalculatorLib
+  name: CalculatorLib
+  href: api/CalculatorLib.html
+  commentId: N:CalculatorLib
+  fullName: CalculatorLib
+  nameWithType: CalculatorLib
+- uid: CalculatorLib.Calculator
+  name: Calculator
+  href: api/CalculatorLib.Calculator.html
+  commentId: T:CalculatorLib.Calculator
+  fullName: CalculatorLib.Calculator
+  nameWithType: Calculator
+- uid: CalculatorLib.Calculator.Add(System.Double,System.Double)
+  name: Add(Double, Double)
+  href: api/CalculatorLib.Calculator.html#CalculatorLib_Calculator_Add_System_Double_System_Double_
+  commentId: M:CalculatorLib.Calculator.Add(System.Double,System.Double)
+  fullName: CalculatorLib.Calculator.Add(System.Double, System.Double)
+  nameWithType: Calculator.Add(Double, Double)
+- uid: CalculatorLib.Calculator.Add*
+  name: Add
+  href: api/CalculatorLib.Calculator.html#CalculatorLib_Calculator_Add_
+  commentId: Overload:CalculatorLib.Calculator.Add
+  isSpec: "True"
+  fullName: CalculatorLib.Calculator.Add
+  nameWithType: Calculator.Add
+- uid: CalculatorLib.Calculator.Div(System.Double,System.Double)
+  name: Div(Double, Double)
+  href: api/CalculatorLib.Calculator.html#CalculatorLib_Calculator_Div_System_Double_System_Double_
+  commentId: M:CalculatorLib.Calculator.Div(System.Double,System.Double)
+  fullName: CalculatorLib.Calculator.Div(System.Double, System.Double)
+  nameWithType: Calculator.Div(Double, Double)
+- uid: CalculatorLib.Calculator.Div*
+  name: Div
+  href: api/CalculatorLib.Calculator.html#CalculatorLib_Calculator_Div_
+  commentId: Overload:CalculatorLib.Calculator.Div
+  isSpec: "True"
+  fullName: CalculatorLib.Calculator.Div
+  nameWithType: Calculator.Div
+- uid: CalculatorLib.Calculator.Mult(System.Double,System.Double)
+  name: Mult(Double, Double)
+  href: api/CalculatorLib.Calculator.html#CalculatorLib_Calculator_Mult_System_Double_System_Double_
+  commentId: M:CalculatorLib.Calculator.Mult(System.Double,System.Double)
+  fullName: CalculatorLib.Calculator.Mult(System.Double, System.Double)
+  nameWithType: Calculator.Mult(Double, Double)
+- uid: CalculatorLib.Calculator.Mult*
+  name: Mult
+  href: api/CalculatorLib.Calculator.html#CalculatorLib_Calculator_Mult_
+  commentId: Overload:CalculatorLib.Calculator.Mult
+  isSpec: "True"
+  fullName: CalculatorLib.Calculator.Mult
+  nameWithType: Calculator.Mult
+- uid: CalculatorLib.Calculator.Sub(System.Double,System.Double)
+  name: Sub(Double, Double)
+  href: api/CalculatorLib.Calculator.html#CalculatorLib_Calculator_Sub_System_Double_System_Double_
+  commentId: M:CalculatorLib.Calculator.Sub(System.Double,System.Double)
+  fullName: CalculatorLib.Calculator.Sub(System.Double, System.Double)
+  nameWithType: Calculator.Sub(Double, Double)
+- uid: CalculatorLib.Calculator.Sub*
+  name: Sub
+  href: api/CalculatorLib.Calculator.html#CalculatorLib_Calculator_Sub_
+  commentId: Overload:CalculatorLib.Calculator.Sub
+  isSpec: "True"
+  fullName: CalculatorLib.Calculator.Sub
+  nameWithType: Calculator.Sub

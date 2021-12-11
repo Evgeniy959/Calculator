@@ -25,13 +25,13 @@ namespace CalculatorLib.HandleTest
 
             try
             {
-                res = Calculator.Add(x, y_error);
-                Console.WriteLine($"{x} + {y} = {res}");
+                res = Calculator.Div(x, y_error);
+                Console.WriteLine($"{x} / {y} = {res}");
             }
             catch (DivideByZeroException e)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine(e.Message);
+                Console.WriteLine($"{x} / {y_error} = {e.Message}");
                 Console.ResetColor();
             }
         }

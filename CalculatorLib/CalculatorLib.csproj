@@ -2,6 +2,7 @@
 
     <PropertyGroup>
         <TargetFramework>net5.0</TargetFramework>
+        <DocumentationFile>doc/calculator_doc.xml</DocumentationFile>
     </PropertyGroup>
 
 </Project>

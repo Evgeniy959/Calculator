@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CalculatorLib</name>
+    </assembly>
+    <members>
+        <member name="T:CalculatorLib.Calculator">
+            <summary>
+            Статический класс для вычесления арифметических действий
+            </summary>
+        </member>
+        <member name="M:CalculatorLib.Calculator.Add(System.Double,System.Double)">
+            <summary>
+            Подсчёт суммы двух чисел
+            </summary>
+            <param name="x">Первое число</param>
+            <param name="y">Второе число</param>
+            <returns>Сумма чисел</returns>
+        </member>
+        <member name="M:CalculatorLib.Calculator.Sub(System.Double,System.Double)">
+            <summary>
+            Подсчёт разницы двух чисел
+            </summary>
+            <param name="x">Первое число</param>
+            <param name="y">Второе число</param>
+            <returns>Разница чисел</returns>
+        </member>
+        <member name="M:CalculatorLib.Calculator.Mult(System.Double,System.Double)">
+            <summary>
+            Подсчёт произведения двух чисел
+            </summary>
+            <param name="x">Первое число</param>
+            <param name="y">Второе число</param>
+            <returns>Произведение чисел</returns>
+        </member>
+        <member name="M:CalculatorLib.Calculator.Div(System.Double,System.Double)">
+            <summary>
+            Подсчёт деления двух чисел
+            </summary>
+            <param name="x">Первое число</param>
+            <param name="y">Второе число</param>
+            <returns>Результат деления</returns>
+            <exception cref="T:System.DivideByZeroException">Если второе число равно 0</exception>
+        </member>
+    </members>
+</doc>

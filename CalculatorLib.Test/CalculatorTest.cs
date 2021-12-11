@@ -55,12 +55,15 @@ namespace CalculatorLib.Test
         }
         
         [TestMethod]
-        [ExpectedException(typeof(DivideByZeroException), "Error")]
         public void Div_Exception()
+        {
+            Assert.ThrowsException<DivideByZeroException>(Action);
+        }
+
+        private void Action()
         {
             int x = 10;
             int y = 0;
-
             Calculator.Div(x, y);
         }
     }
